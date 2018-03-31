@@ -1,0 +1,18 @@
+[2018-03-31 13:36:34.581] [exthost1] [info] extension host started
+[2018-03-31 13:36:34.665] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-03-31 13:36:34.665] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-03-31 13:36:34.812] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-03-31 13:36:34.812] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-03-31 13:36:35.039] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-03-31 13:36:35.039] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-03-31 13:36:35.068] [exthost1] [info] eager extensions activated
+[2018-03-31 13:38:03.883] [exthost1] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2018-03-31 13:38:03.884] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript/out/extension
+[2018-03-31 13:38:04.186] [exthost1] [info] ExtensionService#_doActivateExtension AndrewRazumovsky.vscode-styled-jsx-languageserver {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2018-03-31 13:38:04.187] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/AndrewRazumovsky.vscode-styled-jsx-languageserver-1.0.0/client/out/extension
+[2018-03-31 13:38:04.396] [exthost1] [info] ExtensionService#_doActivateExtension NuclleaR.vscode-extension-auto-import {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2018-03-31 13:38:04.396] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/NuclleaR.vscode-extension-auto-import-1.4.1/out/src/extension
+[2018-03-31 13:42:59.847] [exthost1] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2018-03-31 13:42:59.847] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/out/extension
+[2018-03-31 15:27:46.745] [exthost1] [info] ExtensionService#_doActivateExtension vscode.css {"startup":false,"activationEvent":"onLanguage:css"}
+[2018-03-31 15:27:46.745] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/css/client/out/cssMain
